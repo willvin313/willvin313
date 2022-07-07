@@ -1,4 +1,4 @@
-[![Williams Johnson](https://raw.githubusercontent.com/willvin313/willvin313/master/background.jpg)](https://www.willvin.com)
+[![Williams Johnson](https://github.com/willvin313/willvin313/blob/main/background.jpg)](https://www.willvin.com)
 
 <p>
   <a href="https://twitter.com/iamwillvin">
