@@ -9,17 +9,17 @@
   </a>&ensp;
 </p>
 
-### Hi there 👋, I am williams Johnson also known as willvin on internet!
+### Hi there 👋, I am williams Johnson, also known as willvin on the internet!
 
-I'm **Williams Johnson**. Senior Web Developer specializing in fullstack development. Experienced with all stages of the development cycle for dynamic web projects. Well-versed in numerous programming languages including JavaScript, SQL, and C. Strong background in project management and customer relations.
+I'm **Williams Johnson**. Senior Web Developer specializing in full-stack development. Experienced with all stages of the development cycle for dynamic web projects. Well-versed in numerous programming languages, including JavaScript, SQL, and C. Strong background in project management and customer relations.
 
 - 🔭 I’m currently working on video tutorials
 - 🌱 I’m currently learning Python
-- 🏗 I’m developing pluginns and components
+- 🏗 I’m developing plugins and components
 - 💬 Ask me about Quasar framework, Vue.js, PHP, Python-flask framework, JavaScript, jQuery ... 
 - 📫 How to reach me: info@willvin.com
 - 🔗 Personal website: https://www.willvin.com
-- 💖 Sponsor me to support my open source work. https://github.com/sponsors/willvin313 
+- 💖 Sponsor me to support my open-source work. https://github.com/sponsors/willvin313 
 
 ---
 
